@@ -1,6 +1,9 @@
 # Windows Time Sync
 If you are experiencing issues with your computer's BIOS and you constantly need to synchronize the clock whenever you turn on your computer, this code can help resolve the problem.
-This batch script will change server pool every run to avoid pool server bans and force synchronize your system time.
+This batch script will change server pool every run to avoid pool server bans and force synchronize your system time with one click.
+
+### Disclaimer:
+Run this batch script as administrator
 
 ### How does it work?:
 1. Start the Windows Time service.
